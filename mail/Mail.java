@@ -1,8 +1,5 @@
 import java.util.Vector;
 
-/**
- * Created by z1140463 on 08.03.2017.
- */
  public class Mail {
 
     public enum Format{PLAIN, HTML}
