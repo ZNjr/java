@@ -1,4 +1,4 @@
-//Zbigniew Najder -1
+
 import java.util.Scanner;
 
 public class Source {
